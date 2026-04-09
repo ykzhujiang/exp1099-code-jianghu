@@ -1,0 +1,35 @@
+{
+  "project": "exp1099-code-jianghu",
+  "created_at": "2026-04-09T15:29:26.717926+00:00",
+  "github_repo": "ykzhujiang/exp1099-code-jianghu",
+  "config": {
+    "theme": "《代码江湖》程序员陈风加班到凌晨三点蓝屏后，IDE变成武林秘籍界面，写代码=练功，debug=打怪，解锁Debug斩等招式，要在Demo Day前用代码武功逆袭大厂收购",
+    "genre": "action",
+    "style": "realistic",
+    "duration": 15,
+    "characters": 3,
+    "setting": "中国·当代·科技创业公司办公室",
+    "ratio": "9:16",
+    "episode": "ep01",
+    "source_video": null,
+    "entry": "B"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
